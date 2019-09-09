@@ -1,0 +1,2 @@
+gstreamer-1.0-android-universal-1.16.0.tar.xz filter=lfs diff=lfs merge=lfs -text
+*.tar.xz filter=lfs diff=lfs merge=lfs -text
